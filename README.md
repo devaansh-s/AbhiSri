@@ -46,3 +46,4 @@ This project is a professional personal website designed for a financial advisor
 ├── vite.config.ts         # Vite bundler config
 ├── package.json           # Project metadata and scripts
 └── tsconfig.json          # TypeScript configuration
+
